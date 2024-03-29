@@ -1,6 +1,6 @@
 import { ImageResponse } from '@vercel/og'
 
-export const runtime = "edge"
+// export const runtime = "edge"
 
 export default async function handler() {
 
